@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WalletTransaction", "WalletTransaction.csproj", "{1B327B43-90E6-4E2D-ADC1-4CB225245318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B327B43-90E6-4E2D-ADC1-4CB225245318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B327B43-90E6-4E2D-ADC1-4CB225245318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B327B43-90E6-4E2D-ADC1-4CB225245318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B327B43-90E6-4E2D-ADC1-4CB225245318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA5F302-D35C-4212-A8F1-44F0E50DA42F}
+	EndGlobalSection
+EndGlobal
